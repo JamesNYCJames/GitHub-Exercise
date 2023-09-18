@@ -16,7 +16,7 @@ struct ContentView: View {
                 .scaledToFit()
                 .padding()
         
-        Text("Hello, 1.1!")
+        Text("Hello, 1.2!")
                 .font(.largeTitle)
             .padding()
     }
