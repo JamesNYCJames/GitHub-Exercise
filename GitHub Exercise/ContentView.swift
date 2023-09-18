@@ -11,16 +11,16 @@ struct ContentView: View {
     var body: some View {
         
         VStack {
-        Image(systemName: "1.circle")
+        Image(systemName: "3.circle")
                 .resizable()
                 .scaledToFit()
                 .padding()
         
-        Text("Hello, 1.2!")
+        Text("Hello, 3!")
                 .font(.largeTitle)
             .padding()
     }
-        .foregroundColor(.green)
+        .foregroundColor(.blue)
 }
 }
 
