@@ -20,7 +20,7 @@ struct ContentView: View {
                 .font(.largeTitle)
             .padding()
     }
-        .foregroundColor(.red)
+        .foregroundColor(.green)
 }
 }
 
