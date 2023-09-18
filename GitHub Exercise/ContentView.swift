@@ -19,6 +19,8 @@ struct ContentView: View {
         Text("Hello, 3!")
                 .font(.largeTitle)
             .padding()
+            Rectangle()
+                .padding()
     }
         .foregroundColor(.blue)
 }
